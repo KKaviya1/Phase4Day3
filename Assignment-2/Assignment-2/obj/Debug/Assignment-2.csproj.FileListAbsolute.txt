@@ -1,0 +1,16 @@
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.AssemblyReference.cache
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe.config
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\Assignment-2.pdb
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\nunit.framework.dll
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\nunit.framework.xml
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.CopyComplete
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\obj\Debug\Assignment-2.exe
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\obj\Debug\Assignment-2.pdb
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\NUnit3.TestAdapter.dll
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\NUnit3.TestAdapter.pdb
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\nunit.engine.dll
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\nunit.engine.api.dll
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\nunit.engine.core.dll
+F:\PHASE-4\Day-3\Assignment-2\Assignment-2\bin\Debug\testcentric.engine.metadata.dll

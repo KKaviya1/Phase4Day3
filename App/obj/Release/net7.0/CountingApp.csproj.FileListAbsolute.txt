@@ -1,0 +1,14 @@
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\CountingApp.exe
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\CountingApp.deps.json
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\CountingApp.runtimeconfig.json
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\CountingApp.dll
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\CountingApp.pdb
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.AssemblyInfoInputs.cache
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.AssemblyInfo.cs
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.dll
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\refint\CountingApp.dll
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.pdb
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\CountingApp.genruntimeconfig.cache
+F:\PHASE-4\Day-3\App\obj\Release\net7.0\ref\CountingApp.dll

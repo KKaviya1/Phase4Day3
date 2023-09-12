@@ -1,0 +1,5 @@
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\publish\CountingApp.exe
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\publish\CountingApp.dll
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\publish\CountingApp.deps.json
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\publish\CountingApp.runtimeconfig.json
+F:\PHASE-4\Day-3\App\bin\Release\net7.0\publish\CountingApp.pdb

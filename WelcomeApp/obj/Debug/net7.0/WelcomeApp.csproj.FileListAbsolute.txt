@@ -1,0 +1,14 @@
+F:\PHASE-4\Day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.exe
+F:\PHASE-4\Day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.deps.json
+F:\PHASE-4\Day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.runtimeconfig.json
+F:\PHASE-4\Day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.dll
+F:\PHASE-4\Day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.pdb
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.AssemblyInfoInputs.cache
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.AssemblyInfo.cs
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.dll
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\refint\WelcomeApp.dll
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.pdb
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.genruntimeconfig.cache
+F:\PHASE-4\Day-3\WelcomeApp\obj\Debug\net7.0\ref\WelcomeApp.dll
